@@ -1,0 +1,7 @@
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+data = pd.read_excel('/Users/deepakmathew/Downloads/Github_Repository/Freight_Analysis_Project/Analysis_project_result.xlsx')
+data.head()
